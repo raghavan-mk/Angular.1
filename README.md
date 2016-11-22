@@ -1,4 +1,6 @@
 # Angular Event Registration — Demo Application for Angular JS
+# Implemented per PluralSight course
+# orginal https://github.com/joeeames/angularfundamentalsfiles
 
 This project is a sample application demonstrating a more fully developed realistic single page
 angular application.
